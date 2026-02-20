@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.team-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #ffffff;
+}
+.link-item {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}
+.team-logo {
+  height: 50px;
+  width: 50px;
+}

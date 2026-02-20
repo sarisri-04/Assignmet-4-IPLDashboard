@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.team-banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.recent-matches-list {
+  list-style-type: none;
+}

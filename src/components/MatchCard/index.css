@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.match-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0f172a;
+  border: 3px solid #f26d22;
+  color: #ffffff;
+}
+.match-logo {
+  height: 50px;
+  width: 50px;
+}
